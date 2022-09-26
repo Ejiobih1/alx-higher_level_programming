@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 number = 98
-print('{:d}battery street',farmat(number))
+print('{}battery street'.farmat(number))
